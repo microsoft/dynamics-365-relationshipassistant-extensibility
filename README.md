@@ -138,7 +138,10 @@ or *ExtPkgDeployer\bin\Release* and follow below
 			return true;
 		}
     ```
-    
+
+# Licensing
+This feature requires the [Sales Insights license](https://dynamics.microsoft.com/en-in/ai/sales-insights/).
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
